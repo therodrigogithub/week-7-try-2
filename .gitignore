@@ -8,5 +8,7 @@ node_modules/
 **/.next/
 **/.env
 **/.yaml
+**/apphosting.yaml
 .env
 .yaml
+apphosting.yaml
